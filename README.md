@@ -1,0 +1,1 @@
+This is a set of tetrachords for beginning band, aligned to the ATSSB Region 1 MS/JH All-Region Band audition scales. This repository contains PDF files of the full score and parts, as well as the MuseScore file in case you need to make any changes to better suit your students.
